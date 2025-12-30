@@ -85,7 +85,6 @@ By the end of this course, students will be able to:
 - 🎓 Deliverables: Code, Report, and Presentation
 
 
-
 ## 📊 Evaluation Breakdown
 
 | Component               | Weight |
