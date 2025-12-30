@@ -84,7 +84,7 @@ By the end of this course, students will be able to:
 - Present findings
 - 🎓 Deliverables: Code, Report, and Presentation
 
----
+--
 
 ## 📊 Evaluation Breakdown
 
